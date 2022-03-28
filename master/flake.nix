@@ -11,7 +11,6 @@
   inputs.src-libuv-master.ref   = "refs/heads/master";
   inputs.src-libuv-master.owner = "lcrees";
   inputs.src-libuv-master.repo  = "libuv";
-  inputs.src-libuv-master.dir   = "";
   inputs.src-libuv-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
