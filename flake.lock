@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653701995,
-        "narHash": "sha256-DLbM9K8S6I7x6ckorrqHXPznpUB9klRbYNDexooLAdE=",
+        "lastModified": 1656297828,
+        "narHash": "sha256-Ggpf1tjTm1MtQuPFonFRkCKZDQujh4eVDSZ+PPVBZug=",
         "owner": "nim-nix-pkgs",
         "repo": "libuv",
-        "rev": "38a57d36c121e9d4f51e0fbf364db1788554d362",
+        "rev": "406a35a75950e551a9d83c17f08d1946e38e9b33",
         "type": "github"
       },
       "original": {
